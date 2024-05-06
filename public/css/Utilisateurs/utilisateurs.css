@@ -1,0 +1,32 @@
+#TableUtilisateurs {
+  border-collapse: collapse;
+  width: 100%;
+  /* Définir la largeur de la table à 50% de l'écran */
+  margin: 0 auto;
+  /* Centrer la table horizontalement */
+
+  margin-top: 2%;
+
+  text-align: center;
+}
+th,
+td {
+  border: 1px solid #ccc;
+  padding: 1.2%;
+  font-size: 90%;
+  position: relative;
+  width: 7%;
+  /* Largeur fixe pour toutes les cellules */
+}
+
+#firstBar {
+  background-color: rgb(243, 243, 243);
+}
+
+.input-group {
+  float: right;
+  margin: 0 auto;
+
+  margin-top: 4.5%;
+  margin-right: 6%;
+}
